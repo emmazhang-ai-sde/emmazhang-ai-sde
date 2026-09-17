@@ -2,7 +2,6 @@
 
 # 👋 Hi there! I'm Shuyang
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-emmazhang--ai--sde.github.io-0f766e?style=for-the-badge&logo=githubpages&logoColor=white)](https://emmazhang-ai-sde.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-emmazhang--ai--sde-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emmazhang-ai-sde)
 
 </div>
@@ -15,7 +14,7 @@ I enjoy building products at the intersection of **AI, backend systems, and full
 
 <br />
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
 | Project | What it does | Stack / Focus |
 |---|---|---|
@@ -26,26 +25,19 @@ I enjoy building products at the intersection of **AI, backend systems, and full
 
 <br />
 
-## 🧰 Tech Stack
+### 🧰 Tech Stack
 
-**Languages**
-Python · Java · TypeScript · JavaScript · C++
-
-**Frontend**
-React · Next.js · Angular · HTML · CSS
-
-**Backend**
-Spring Boot · Spring Cloud · Node.js · FastAPI · REST · WebSockets · gRPC
-
-**AI / LLM**
-RAG · LangChain · LLM Agents · Vector Search · Speech-to-Text · Text-to-Speech
-
-**Data & Infrastructure**
-PostgreSQL · MySQL · Redis · DynamoDB · Docker · Kubernetes · AWS · CI/CD
+| Category | Technologies |
+|---|---|
+| **Languages** | Python · Java · TypeScript · JavaScript · C++ |
+| **Frontend** | React · Next.js · Angular · HTML · CSS |
+| **Backend** | Spring Boot · Spring Cloud · Node.js · FastAPI · REST · WebSockets · gRPC |
+| **AI / LLM** | RAG · LangChain · LLM Agents · Vector Search · Speech-to-Text · Text-to-Speech |
+| **Data & Infrastructure** | PostgreSQL · MySQL · Redis · DynamoDB · Docker · Kubernetes · AWS · CI/CD |
 
 <br />
 
-## 🌱 What I'm Interested In
+### 🌱 What I'm Interested In
 
 - Backend and distributed systems
 - Applied AI and agentic systems
@@ -57,6 +49,30 @@ PostgreSQL · MySQL · Redis · DynamoDB · Docker · Kubernetes · AWS · CI/CD
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emmazhang-ai-sde&show_icons=true&theme=default&hide_border=true)
+### 📊 GitHub Statistics
+
+<img src="./generated/github-statistics.svg" alt="GitHub statistics" width="560" />
+
+<br />
+
+## 🧩 LeetCode
+
+<!-- Hidden for now:
+<a href="https://leetcode.com/u/shuyangzhang321/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://leetcode-stats-six.vercel.app/shuyangzhang321?theme=dark">
+    <img alt="LeetCode stats" src="https://leetcode-stats-six.vercel.app/shuyangzhang321?theme=light">
+  </picture>
+</a>
+-->
+
+<a href="https://leetcode.com/u/shuyangzhang321/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://leetcode-stats-six.vercel.app/shuyangzhang321/graph?theme=dark&width=760">
+    <img alt="LeetCode submissions" src="https://leetcode-stats-six.vercel.app/shuyangzhang321/graph?theme=light&width=760">
+  </picture>
+</a>
+
+<br />
 
 </div>
