@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there! I'm Shuyang
+# 👋 Hi there! I'm Emma
 
 [![GitHub](https://img.shields.io/badge/GitHub-emmazhang--ai--sde-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emmazhang-ai-sde)
 
