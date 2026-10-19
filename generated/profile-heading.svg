@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="48" viewBox="0 0 440 48" role="img" aria-labelledby="title">
+  <title id="title">👋 Hi there! I'm Emma</title>
+  <style>
+    text { fill: #1f2328; }
+    @media (prefers-color-scheme: dark) {
+      text { fill: #f0f6fc; }
+    }
+  </style>
+  <text x="220" y="34" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji'" font-size="32" font-weight="600">👋 Hi there! I'm Emma</text>
+</svg>
