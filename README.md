@@ -29,10 +29,10 @@ I enjoy building products at the intersection of **AI, backend systems, and full
 
 | Project | What it does | Stack / Focus |
 |---|---|---|
-| **AI Voice Agent Platform** | Real-time AI sales agent with RAG, agentic workflows, speech-to-text, text-to-speech, human handoff, and post-call analysis. | AI Agents · RAG · Realtime Systems |
-| **UIUC Housing AI** | AI-powered housing search platform for students to discover and compare apartments through conversational search, maps, and structured listings. | Full-stack · Maps · Search |
-| **Distributed E-Commerce System** | Microservices-based online shopping platform designed for high-concurrency traffic and distributed system patterns. | Spring Boot · Redis · RocketMQ · Docker · Kubernetes · AWS |
-| **Tang Matcha House** | Full-stack ordering system with real-time order updates, REST APIs, serverless infrastructure, caching, and automated testing. | React · APIs · Serverless · Testing |
+| **AI Voice Agent Platform** | RAG-powered voice sales agent handling **1,000+** calls/month for **20+** reps, with human handoff and post-call analysis. Cut voice latency by **40%** to under **80ms** and resolved **65%** of calls autonomously. | RAG · LiveKit · Haystack · Qdrant · Cohere · Claude Code · Codex |
+| **UIUC Housing Search Platform**<br>[Live](https://illinirent.com/) \| [GitHub](https://github.com/emmazhang-ai-sde/uiuc-housing-serach-website) | Housing search platform serving **500** students comparing **1,100+** Champaign-Urbana floor plans by price per bedroom. Unified **580+** properties into one dataset with map-based search and structured listings. | Next.js · FastAPI · Supabase · MapLibre · Playwright · SQLite · Vercel · Railway · GitHub Actions · CI/CD |
+| **Distributed E-Commerce System** | Microservices marketplace eliminating overselling at **5,000+** QPS during Prime Day. Reduced peak database write load by **60%**, sustained **99.9%** uptime, and maintained **80%** unit test coverage. | Spring Boot · Spring Cloud · Spring Cloud Gateway · OpenFeign · Redis · Lua · RocketMQ · Angular · React · Next.js · TypeScript · Tailwind CSS · Docker · Kubernetes · AWS EC2 · JUnit · Mockito |
+| **Tang Matcha House** | Full-stack ordering system managing **200+** orders/week, with real-time status updates and pickup verification. Automated infrastructure and CI/CD accelerated rollouts by **60%**. | React · TypeScript · RESTful APIs · API Gateway · Lambda · DynamoDB · WebSocket · AWS CDK · CloudFormation · CI/CD · Vitest · Supertest |
 
 <br />
 
