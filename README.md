@@ -40,11 +40,12 @@ I enjoy building products at the intersection of **AI, backend systems, and full
 
 | Category | Technologies |
 |---|---|
-| **Languages** | Python · Java · TypeScript · JavaScript · C++ |
-| **Frontend** | React · Next.js · Angular · HTML · CSS |
-| **Backend** | Spring Boot · Spring Cloud · Node.js · FastAPI · REST · WebSockets · gRPC |
-| **AI / LLM** | RAG · LangChain · LLM Agents · Vector Search · Speech-to-Text · Text-to-Speech |
-| **Data & Infrastructure** | PostgreSQL · MySQL · Redis · DynamoDB · Docker · Kubernetes · AWS · CI/CD |
+| **Languages & Frontend** | Java, Python, C, C#, C++, TypeScript/JavaScript, React.js, Next.js, Angular, Tailwind CSS, HTML, CSS3 |
+| **Backend & APIs** | Spring Boot, Spring Cloud, Node.js/Express, FastAPI/Flask, Django, RESTful APIs, gRPC, WebSockets, OpenFeign, RocketMQ, Kafka, Flink, JUnit, Mockito, Vitest, Supertest, Playwright |
+| **Databases** | SQL/NoSQL Schema Design, MySQL, PostgreSQL, MongoDB, Redis, DynamoDB, SQLite, Elasticsearch, OpenSearch, pgvector, Supabase |
+| **AI / LLM** | RAG, LangChain, LangGraph, LangSmith, Haystack, MCP, Qdrant, Cohere, Vector Search, Embeddings, Tool Calling, Guardrails, Human-in-the-Loop, LiveKit, AWS Bedrock, Docling, Information Retrieval, NLP |
+| **Cloud & DevOps** | AWS (EC2, EKS, Lambda, API Gateway, S3, DynamoDB, SES, CDK, CloudFormation), GCP, Azure, Docker, Kubernetes, Terraform, Prometheus, Grafana, Git, GitHub Actions, CI/CD |
+| **Methodologies** | Agile/Scrum, Distributed Systems Design, Data Structures & Algorithms, Code Review, Automation, Self-healing Systems |
 
 <br />
 
